@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O app "Food Delivery" é um de delivery de alimentos que conecta o consumidor, restaurando e os entregadores . Este projeto foi criado utilizando as tecnologias React Native, Typescript, Javascript e Expo.
+O app "Food Delivery" é um aplicativo de delivery de alimentos que conecta o consumidor, restaurando e os entregadores . Este projeto foi criado utilizando as tecnologias React Native, Typescript, Javascript e Expo.
 
 ## 🚀 Como executar
 
